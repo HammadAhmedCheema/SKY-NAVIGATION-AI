@@ -1,6 +1,6 @@
 # SKY-NAVIGATION-AI
 
-A C++ and SFML-based flight routing and visualization application. The system processes a text dataset of global flight data, plots country coordinates visually onto a map, and calculates optimal flight paths between destinations—including direct routes and layovers.
+A C++ and SFML-based flight routing and visualization application. The system processes a text dataset of global flight data, plots country coordinates visually onto a map, and calculates optimal flight paths between destinations, including direct routes and layovers.
 
 ## Features
 
