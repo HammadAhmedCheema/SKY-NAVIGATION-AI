@@ -10,6 +10,3 @@ Abrar:
 
 Omar:
     shortest path finding wale fucntions implement karna start kar.
-
-
-    ma abhi so raha hu so bhai mere uthne se pehle kindly code samaj lena or kaam shuru kar dena 
